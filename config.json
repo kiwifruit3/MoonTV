@@ -85,9 +85,13 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "haohua": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源"
+    "huohua": {
+      "api": "https://cj.huohua.live/api.php/provide/vod",
+      "name": "火花资源"
+    },
+    "qilin": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源"
     }
   }
 }
